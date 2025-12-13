@@ -39,7 +39,6 @@ nav ul li { /* Estilos de los elementos de la lista de navegación */
 }
 
 footer { /* Estilos del pie de página */
-    text-align: center;
     margin-top: 20px; 
     padding: 4px;
     background-color: #ffeb99;
